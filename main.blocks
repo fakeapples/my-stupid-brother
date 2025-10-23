@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="H3cz*^d-AG:IN/Oc@6_|" x="225" y="20"></block><block type="pxt-on-start" id="/0qeCsbC45I;0|KH4=+q" x="47" y="176"><statement name="HANDLER"><block type="controls_if" id="y[4F(;u5l^ts^{gXQ%Sb"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="I(7p1CK!*3}*xmJ(M=hY"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="K5,+tjE.g9G|(T3*(6mb"><value name="text"><shadow type="text" id="$f=ZB(()Lni[e8xLlf.t"><field name="TEXT">My brother</field></shadow></value><next><block type="device_show_leds" id="N~4zS(-kB2Z](2qqE*m7"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="*rzb:ls3fTJZi/V5wEw+"><value name="text"><shadow type="text" id=")Yi%C!gv(}u+ji*|uP1)"><field name="TEXT">Is genius</field></shadow></value></block></next></block></next></block></statement><statement name="ELSE"><block type="device_print_message" id="Q7^0?2MF(KH+SN2F_y}P"><value name="text"><shadow type="text" id="S3kr=r[I0$z{16p=Whn$"><field name="TEXT">My brother</field></shadow></value><next><block type="device_show_leds" id="O{(j}um$![noq^MQ-o#Q"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="device_print_message" id="NO8RC3PRz)PPD|QmF1(;"><value name="text"><shadow type="text" id="vty30em=H)%E)0*!bU$R"><field name="TEXT">Is stupid</field></shadow></value></block></next></block></next></block></statement></block></statement></block></xml>
